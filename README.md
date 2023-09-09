@@ -81,7 +81,7 @@ The details of fine-tuning can find in the folder "*finetuning*".
 
 ![](image/README/1653210546047.png)
 
-## Proprocessing
+## Preprocessing
 
 We provide script for preprocessing EHRs on MIMIC-III.
 
